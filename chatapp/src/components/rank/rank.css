@@ -1,0 +1,36 @@
+#vote-rank-name {
+	height:50px;
+	line-height: 50px;
+	text-align: center;
+}
+#vote-showRank-pirture img{
+	 width:100%;
+	 max-height: 100%;
+	 height: auto;
+}
+#vote-showRow {
+	position: relative;
+	height:15rem;
+}
+#vote-showRow #vote-rank-tag {
+	position:absolute;
+	right:0;
+}
+#vote-showRank-pirture {
+	margin-bottom: 100px;
+}
+#vote-suppost {
+	height:50px;
+	line-height: 50px;
+}
+#vote-number-name {
+	color:red;
+}
+#vote-rank-number {
+	font-weight: 900;
+	color:deepskyblue;
+}
+#vote-username {
+	font-size:1.5rem;
+	color:deepskyblue;
+}
